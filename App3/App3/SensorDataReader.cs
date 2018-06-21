@@ -181,6 +181,7 @@ namespace BluetoothBLE
 
         public static String GetTimestamp(DateTime value)
         {
+           
             return value.ToString("yyyyMMddHHmmssffff");
         }
 
