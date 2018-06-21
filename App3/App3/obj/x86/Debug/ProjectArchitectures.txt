@@ -1,0 +1,1 @@
+C:\Users\Ersdin\source\repos\App3\App3\BluetoothBLE.csproj;x86
